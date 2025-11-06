@@ -25,6 +25,4 @@
 
 ![](repl3.PNG)
 
-![](repl.png)
-![](repl.png)
-![](repl.png)
+![](repl4.PNG)
